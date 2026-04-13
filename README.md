@@ -1,4 +1,4 @@
-# 📚 Almendra Studio - Identidade Visual
+# Almendra Studio - Identidade Visual
 
 ![Almendra Studio Preview](./img/Readme_img/readmeimagem.png)
 

@@ -32,5 +32,7 @@ Neste projeto, a Inteligência Artificial foi utilizada como uma ferramenta de c
 
 > [!IMPORTANT]
 > Este é o projeto oficial em produção da **Almendra Studio**, desenvolvido com foco estratégico em performance, leads e capricho de design visual.
-> 
-> Desenvolvido por **Pedro Evangelista**.
+
+---
+
+Desenvolvido por [Pedro Evangelista](https://github.com/pedrosilvaevangelista)

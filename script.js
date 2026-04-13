@@ -63,9 +63,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Project Data for Lightbox
     const projectGalleries = {
-        felipe: Array.from({ length: 7 }, (_, i) => `./img/Projetos/Felipe_araujo/Felipe Araujo_${i + 1}.png`),
-        ana: Array.from({ length: 10 }, (_, i) => `./img/Projetos/Ana_moreno/Ana Moreno Design_${i + 1}.png`),
-        almendra: Array.from({ length: 3 }, (_, i) => `./img/Projetos/Almendra_designn/almendra_designn_${i + 1}.png`)
+        felipe: Array.from({ length: 7 }, (_, i) => `./img/Projetos/Felipe_araujo/Felipe Araujo_${i + 1}.jpg`),
+        ana: Array.from({ length: 10 }, (_, i) => `./img/Projetos/Ana_moreno/Ana Moreno Design_${i + 1}.jpg`),
+        almendra: Array.from({ length: 3 }, (_, i) => `./img/Projetos/Almendra_designn/almendra_designn_${i + 1}.jpg`)
     };
 
     let currentGallery = [];
